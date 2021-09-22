@@ -9,7 +9,7 @@
 /* |||| GENERAL |||| */
 
 body {
-	background:red;
+	background:#191919;
 }
 
 h1 {
@@ -71,12 +71,7 @@ a:hover {
 
 }
 
-.audioss {
-	color:red;
-	font-size:20px;
-	margin:20px 20px 20px 20px;
 
-}
 
 .sonido {
 	width:100px
