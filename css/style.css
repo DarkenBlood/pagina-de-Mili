@@ -1,0 +1,95 @@
+/* |||| TODO |||| */
+
+* {
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+}
+
+
+/* |||| GENERAL |||| */
+
+body {
+	background:#191919;
+}
+
+h1 {
+	color:#FE97E2;
+	text-align:center;
+	font-size:70px;
+	margin:10px 10px 10px 10px;
+
+}
+
+p {
+	color:#FFC4EF;
+	text-align:left;
+	text-indent:30px;
+
+	word-spacing:1px;
+	font-size:20px;
+
+	padding:5px 10px 10px 10px;
+
+}
+
+img {
+	height:auto;
+	width:300px;
+}
+
+a {
+	color:#9F19A3;
+	font-size:40px;	
+	text-align:right;
+	text-decoration:none;
+	padding:10px 10px 10px 10px;
+}
+
+a:link {
+	color:#9F19A3;
+
+
+}
+
+a:hover {
+	color:#191919;
+	background:#9F19A3;
+}
+
+/* |||| IMAGENES |||| */
+
+.a {
+	height:auto;
+	width:300px;
+	
+
+}
+
+.disculpa {
+	text-align:center;
+	font-size:30px;
+
+}
+
+.audioss {
+	color:red;
+	font-size:20px;
+	margin:20px 20px 20px 20px;
+
+}
+
+.sonido {
+	width:100px
+
+}
+
+.chiquito {
+	height:auto;
+	width:150px;
+
+}
+
+.teamo {
+	text-align:center;
+
+}
